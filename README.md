@@ -1,0 +1,1 @@
+# solid_responsabilidad_unica
