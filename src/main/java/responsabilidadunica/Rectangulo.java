@@ -10,11 +10,7 @@ public class Rectangulo {
         this.alto = alto;
     }
 
-    public double calcularArea(){
+    public double calcularArea() {
         return alto * ancho;
-    }
-
-    public void dibujar(){
-
     }
 }

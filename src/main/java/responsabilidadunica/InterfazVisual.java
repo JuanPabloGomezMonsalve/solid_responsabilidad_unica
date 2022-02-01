@@ -3,7 +3,7 @@ package responsabilidadunica;
 public class InterfazVisual {
 
     public void dibujarBoton() {
-        Rectangulo borde = new Rectangulo(200, 200);
+        Boton borde = new Boton(200, 200, 5, 8);
         borde.dibujar();
     }
 }
